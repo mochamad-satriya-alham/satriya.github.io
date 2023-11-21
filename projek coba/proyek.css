@@ -1,0 +1,107 @@
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    padding-right: 40px;
+    padding-top: 16px;
+}
+
+header {
+    display: flex;
+    background-color: brown;
+    color: aliceblue;
+}
+
+
+nav {
+    margin-left: 100px;
+}
+
+
+
+.logo {
+    margin-left: 100px;
+    font-style: italic;
+
+}
+
+.kotak1 {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+
+.kotak2 {
+    height: 100px;
+    width: 100px;
+    background-color: chartreuse;
+}
+
+.kotak3 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+.box-kotak {
+    display: flex;
+}
+
+.kotak4 {
+    background-color: blueviolet;
+    height: 400px;
+    width: 400px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.kotak5 {
+    background-color: cyan;
+    height: 400px;
+    width: 400px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.kotak6 {
+    background-color: brown;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    margin-left: 50px;
+
+}
+
+.box-kotak2 {
+    display: flex;
+    padding: 50px;
+}
+
+.box-kotak2 {
+    margin-top: 100px;
+}
+
+.box-kotak2 p{
+    font-size: larger;
+    padding-left: 20px;
+}
+
+.box-kotak2  button {
+    border-radius: 12px;
+    background-color: lightgreen;
+    padding: 10px 20px;
+
+}
+
+.btn-buy :hover {
+    background-color: bisque;
+
+}
+
+
+
+
